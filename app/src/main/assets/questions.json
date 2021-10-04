@@ -1,0 +1,47 @@
+[
+    {
+      "id": "1",
+      "question": "On what date does the Hogwarts Express travel from King's Cross to Hogwarts?",
+      "optionOne": "31 July",
+      "optionTwo": "1 August",
+      "optionThree": "31 August",
+      "optionFour": "1 September",
+      "correctAnswer": "4"
+    },
+    {
+      "id": "2",
+      "question": "What are the first names of the Hogwarts founders?",
+      "optionOne": "Godric, Helga, Rowena, Salazar",
+      "optionTwo": "Godric, Helena, Rowena, Salazar",
+      "optionThree": "Godric, Helga, Romona, Salazar",
+      "optionFour": "Godric, Hepzibah, Rowena, Salazar",
+      "correctAnswer": "1"
+    },
+    {
+      "id": "3",
+      "question": "Who was the author of A History of Magic?",
+      "optionOne": "Miranda Goshawk",
+      "optionTwo": "Libatius Borage",
+      "optionThree": "Bathilda Bagshot",
+      "optionFour": "Elphias Doge",
+      "correctAnswer": "3"
+    },
+    {
+      "id": "4",
+      "question": "How many possible fouls are there in Quidditch?",
+      "optionOne": "400",
+      "optionTwo": "500",
+      "optionThree": "600",
+      "optionFour": "700",
+      "correctAnswer": "4"
+    },
+    {
+      "id": "5",
+      "question": "In what order were Voldemort's Horcruxes destroyed?",
+      "optionOne": "Locket, Ring, Diary, Cup, Diadem, Harry, Nagini",
+      "optionTwo": "Diary, Ring, Locket, Cup, Diadem, Harry, Nagini",
+      "optionThree": "Diary, Ring, Locket, Diadem, Cup, Harry, Nagini",
+      "optionFour": "Diary, Locket, Ring, Diadem, Cup, Harry, Nagini",
+      "correctAnswer": "2"
+    }
+  ]

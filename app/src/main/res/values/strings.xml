@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HogwartsQuiz</string>
+    <string name="input">Please enter your name</string>
+    <string name="hogwarts_quiz">HogwartsQuiz</string>
+    <string name="default_question">What country does this flag belong?</string>
+    <string name="next_question">NEXT QUESTION</string>
+    <string name="finish">FINISH</string>
+    <string name="submit">SUBMIT</string>
+
+</resources>
