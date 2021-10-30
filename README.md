@@ -24,7 +24,7 @@
 
 ### Udemy course
 
-  * The Complete Android 10 & Kotlin Development Masterclass by Denis Panjuta
+  * The Complete Android 12 & Kotlin Development Masterclass by Denis Panjuta
 
 # Contact Me!
 
